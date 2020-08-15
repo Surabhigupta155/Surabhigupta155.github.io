@@ -577,6 +577,8 @@ body {
   .navbar-brand h1.Blazing {
 		font-size: 25px;
   }
+  .container-fluid .cakecol2 {
+	  margin-left:0px;
 }
 /*Medium devices*/
 @media (min-width: 992px) and (max-width: 1199px) {
