@@ -587,6 +587,13 @@ body {
   .container-fluid .row .videocol2 video {
     margin-left: 0px;
   }
+   .container-fluid .row .nazmcol2 video {
+    margin-left: 0px;
+  }
+  .container .row .nazm .flip-cardn {
+  width: 435px;
+  height: 300px;
+  }
 }
 /*Medium devices*/
 @media (min-width: 992px) and (max-width: 1199px) {
