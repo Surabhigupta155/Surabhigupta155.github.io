@@ -606,6 +606,11 @@ body {
   .container-fluid .row .flip-card4{
     margin-left: 0px;
   }
+  .container-fluid .row .tilecol2 {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+
 }
 /*Medium devices*/
 @media (min-width: 992px) and (max-width: 1199px) {
