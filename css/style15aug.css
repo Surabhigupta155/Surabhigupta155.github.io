@@ -575,7 +575,7 @@ body {
     font-size: 8vw;
   }
   .navbar-brand h1.Blazing {
-		font-size: 25px;
+		font-size: 22px;
   }
   .container-fluid .row .cakecol2 .cake {
 	  margin-left:0px;
@@ -593,6 +593,18 @@ body {
   .container .row .nazm .flip-cardn {
   width: 420px;
   height: 300px;
+  }
+  .container-fluid .row .flip-card1{
+    margin-left: 5px;
+  }
+  .container-fluid .row .flip-card2{
+    margin-left: 0px;
+  }
+  .container-fluid .row .flip-card3{
+    margin-left: 5px;
+  }
+  .container-fluid .row .flip-card4{
+    margin-left: 0px;
   }
 }
 /*Medium devices*/
