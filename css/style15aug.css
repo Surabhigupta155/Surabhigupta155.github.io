@@ -621,6 +621,11 @@ body {
  }
  .container-fluid .row .cardcol3 {
   margin-left: 0px;
+  padding-left: 0px;
+ }
+ .container-fluid .row .cardcol2 {
+  margin-right: 0px;
+  padding-right: 0px;
  }
 
 }
