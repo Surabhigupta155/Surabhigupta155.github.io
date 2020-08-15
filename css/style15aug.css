@@ -584,6 +584,9 @@ body {
     margin-left: 0px;
     padding-left: 0px;
   }
+  .container-fluid .row .videocol2 video {
+    margin-left: 0px;
+  }
 }
 /*Medium devices*/
 @media (min-width: 992px) and (max-width: 1199px) {
