@@ -610,6 +610,18 @@ body {
     margin-left: 0px;
     padding-left: 0px;
   }
+  .container-fluid .row .cardcol2 .flip-card {
+  width: 220px;
+  height: 220px;
+ }
+ .container-fluid .row .cardcol2 .flip-card .flip-card-back p{
+  font-size: 14px;
+  margin-top: 0px;
+  padding-top: 0px;
+ }
+ .container-fluid .row .cardcol3 {
+  margin-left: 10px;
+ }
 
 }
 /*Medium devices*/
